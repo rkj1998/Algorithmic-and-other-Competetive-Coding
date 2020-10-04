@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication5;
 /*package whatever //do not write package name here */
 
 import java.util.*;
